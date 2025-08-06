@@ -1,0 +1,11 @@
+ body{
+            text-align:center;
+            margin: 0px;
+            min-height: 100vh;
+            background-image: url('back.jpg.jfif'); /* Ganti dengan nama file foto Anda */
+            background-size: cover; /* Agar foto menutupi seluruh latar belakang */
+            background-position: center; /* Agar foto terletak di tengah */
+        
+            font-family: serif;
+
+        }
